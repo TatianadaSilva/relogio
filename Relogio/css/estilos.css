@@ -1,0 +1,40 @@
+body{
+background: url('/img/ceu.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.central{
+width: 700px;
+height: 400px;
+background: rgba(255, 255, 255, 0.458);
+border-radius: 15px ;
+padding: 16px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+
+}
+
+.central div{
+    background: rgba(113, 94, 94, 0.901);
+    color: white;
+    height: 300px;
+    width: 400px;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 100px;
+}
+
+   .central .pontos{
+ font-size: 100px;
+ color: rgb(38, 37, 34);
+   }
